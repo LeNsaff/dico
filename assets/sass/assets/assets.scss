@@ -1,0 +1,19 @@
+@import '../variables/variables.scss';
+
+.logo{
+    height: 150px;
+}
+
+.schbar{
+    width: 60%;
+    height: 30px;
+    border-radius: $borderrad;
+    border: 0;
+}
+
+.schbtn{
+    background-color: $color2;
+    border: 2px;
+    border-radius: 5px;
+    height: 30px;
+}

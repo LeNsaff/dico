@@ -1,0 +1,9 @@
+@mixin ctnvert{
+    display: flex;
+    flex-direction: column;
+}
+
+@mixin ctnhor{
+    display: flex;
+    flex-direction: row;
+}
